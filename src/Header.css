@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #8dfd8d;
+    padding: 10px 15px;
+    font-size: 18px;
+  }
+  
+  .menu-icon, .coins {
+    font-size: 24px;
+  }
